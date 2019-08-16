@@ -3,7 +3,7 @@ Terence Tarvis
 
 -------------------     ----------------------------
 2702 Greenwood Ln		terence@tarves.org
-St. Charles, IL			
+St. Charles, IL			tgtarvis@gmail.com	
 USA				1 630 513 6299
 -------------------     ----------------------------
 
@@ -66,7 +66,7 @@ Programming Languages
 	on the language.
 
 :   **C++:** Somewhat limited in experience but constantly improving this
-    skill.  (totp link)[github.com/ttarvis/2FCLI]
+    skill.  [totp link](github.com/ttarvis/2FCLI)
 
 :   Basic knowledge of **Python**, **Javascript**, **x86**, **Java**
 
