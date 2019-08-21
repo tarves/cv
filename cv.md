@@ -1,21 +1,26 @@
 Terence Tarvis
 ============
 
--------------------     ----------------------------
-2702 Greenwood Ln		terence@tarves.org
-St. Charles, IL			tgtarvis@gmail.com	
-USA				1 630 513 6299
--------------------     ----------------------------
+-------------------
+2702 Greenwood	Ln
+St. Charles, IL
+USA
+-------------------
+    
+-------------------
+terence@tarves.org, tgtarvis@gmail.com
+[github.com/ttarvis](https://github.com/ttarvis)
+1 630 513 6299
+--------------
 
 Education
 ---------
 
-2007-2011
+2008-2011
 :   **BSc, Computer Science and Mathematics**; University of
     Illinois Urbana-Champaign
 
-    *Minor: Atmospheric Sciences*
-
+  
 Experience
 ----------
 
@@ -41,36 +46,35 @@ Programmer for a quantitative trading fund.
 
 Technical Experience
 --------------------
+ 
+#### Elliptic Curve Research in Go
+        Rebuilding a university course assignment using elliptic
+        curves from Python to both Go and C which performs 
+        things such as Pedersen commitments.
 
-Elliptic Curve Research in Go
-:   Rebuilding a university course assignment using elliptic
-    curves from Python go both Go and C which performs 
-    things such as Pedersen commitments.
+*    Using LibGMP and Go bigNum to do elliptic curve operations
+*    Researching zero knowledge and various commitment schemes in
+	the process (not published)  
 
-    * Using raw LibGMP and Go bigNum to do elliptic curve operations
-    * Researching zero knowledge and various commitment schemes in
-	in the process (not published)
+#### Open Source
+        Various open source projects I started
 
-Open Source
-:   Various open source projects I started
-    * Glasgo
-    * Goz3 (Go binding for Z3)
-    * node-proxmox (API client for Proxmox)
+*    Glasgo (static analysis tool for Go)
+*    Goz3 (Go binding for Z3)
+*    node-proxmox (API client for Proxmox)  
 
-Programming Languages
-:   **Go:** Expert in Go language. I have performed research on
+#### Programming Languages
+**Go:** Expert in Go language. I have performed research on
 	the language, build a static analysis tool, performed
 	code reviews, and built various small tools
 
-:   **C:** I have built small tools in C and performed research
+**C:** I have built small tools in C and performed research
 	on the language.
 
-:   **C++:** Somewhat limited in experience but constantly improving this
-    skill.  [totp link](github.com/ttarvis/2FCLI)
+**C++:** Somewhat limited in experience but constantly improving this
+    skill.  [totp link](https://github.com/ttarvis/2FCLI)
 
-:   Basic knowledge of **Python**, **Javascript**, **x86**, **Java**
-
-[ref]: https://github.com/ttarvis
+Basic knowledge of **Python**, **Javascript**, **x86**, **Java**
 
 Extra
 ----------------------------------------
@@ -82,6 +86,6 @@ Extra
      * French (limited)
      * Latin (limited)
 
-* Interested in static analysis techniques
+* Interested in static analysis techniques.
 
-* Other sort of impressive-sounding thing you did
+* Track record of performing independent research.
