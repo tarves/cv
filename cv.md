@@ -65,7 +65,7 @@ Technical Experience
 
 #### Programming Languages
 **Go:** Expert in Go language. I have performed research on
-	the language, build a static analysis tool, performed
+	the language, built a static analysis tool, performed
 	code reviews, and built various small tools
 
 **C:** I have built small tools in C and performed research
