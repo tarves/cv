@@ -57,7 +57,7 @@ Technical Experience
 	the process (not published)  
 
 #### Open Source
-        Various open source projects I started
+        Various open source projects I started:
 
 *    Glasgo (static analysis tool for Go)
 *    Goz3 (Go binding for Z3)
@@ -72,7 +72,7 @@ Technical Experience
 	on the language.
 
 **C++:** Somewhat limited in experience but constantly improving this
-    skill.  [totp link](https://github.com/ttarvis/2FCLI)
+    skill.  [totp cli tool in C++](https://github.com/ttarvis/2FCLI)
 
 Basic knowledge of **Python**, **Javascript**, **x86**, **Java**
 
