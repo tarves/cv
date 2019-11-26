@@ -16,8 +16,8 @@ terence@tarves.org, tgtarvis@gmail.com
 Education
 ---------
 
-:   **BSc, Computer Science and Mathematics**; University of
-    Illinois Urbana-Champaign
+**BSc, Computer Science and Mathematics**  
+University of Illinois Urbana-Champaign
 
   
 Experience
