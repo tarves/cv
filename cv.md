@@ -46,14 +46,12 @@ Programmer for a quantitative trading fund.
 Technical Experience
 --------------------
  
-#### Elliptic Curve Research in Go
-        Rebuilding a university course assignment using elliptic
-        curves from Python to both Go and C which performs 
-        things such as Pedersen commitments.
+#### Cryptography
+        University coursework, programming, cryptography code review/consulting:
 
-*    Using LibGMP and Go bigNum to do elliptic curve operations
-*    Researching zero knowledge and various commitment schemes in
-	the process (not published)  
+*    Solid understanding of cryptoraphic algorithms and primitives
+*    Experimental and research development of cryptographic implementations
+*    Review of usage of cryptography in various languages
 
 #### Open Source
         Various open source projects I started:
