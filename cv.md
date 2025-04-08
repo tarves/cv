@@ -8,7 +8,7 @@ USA
 -------------------
     
 -------------------
-terence@tarves.org, tgtarvis@gmail.com
+terence@tarvis.org, tgtarvis@gmail.com
 [github.com/ttarvis](https://github.com/ttarvis)
 1 630 513 6299
 --------------
