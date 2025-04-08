@@ -16,7 +16,7 @@ terence@tarvis.org, tgtarvis@gmail.com
 Education
 ---------
 
-**BS, Computer Science**  
+**BS, MS(incoming) Computer Science**  
 Stanford University
   
 Experience
