@@ -16,32 +16,37 @@ terence@tarves.org, tgtarvis@gmail.com
 Education
 ---------
 
-**BSc, Computer Science and Mathematics**  
-University of Illinois Urbana-Champaign
-
+**BS, Computer Science**  
+Stanford University
   
 Experience
 ----------
 
-**NCC Group:**
-2015-Present
+**Latacora:**
+2022-Present
 
-Position: Senior Security Consultant.  Work includes various types of 
+Position: Security Engineer.  Work includes various types of 
 security review for clients including: cryptography implementation review,
 source code analysis, web application security testing, and network penetration
-testing.  Also included are performing research and developing tools to assist
+testing.  Also included: performing research and developing tools to assist
 with testing.
 
-* Performed security reviews
+* Performed web application assessments
+
+* Worked on automating security testing for various clients
+
+**NCC Group:**
+Previous
+
+Position: Research. Performed research on specific topics including cryptography,
+blockchains, and static code analysis.
 
 * Performed original research
 
+* Worked on blockchain implementation bugs
+
 * Built [Glasgo](http://github.com/ttarvis/glasgo). A static analysis tool
-  for finding security issues in Go.
-
-**Mina Capital**
-
-Programmer for a quantitative trading fund.
+  for finding security issues in Go
 
 Technical Experience
 --------------------
@@ -66,12 +71,12 @@ Technical Experience
 	code reviews, and built various small tools
 
 **C:** I have built small tools in C and performed research
-	on the language.
+	on the language
 
 **C++:** Somewhat limited in experience but constantly improving this
-    skill.  [totp cli tool in C++](https://github.com/ttarvis/2FCLI)
+    skill  [totp cli tool in C++](https://github.com/ttarvis/2FCLI)
 
-Basic knowledge of **Python**, **Javascript**, **x86**, **Java**
+Practical knowledge of **Python**, **Javascript**, **x86**, **Java**
 
 Extra
 ----------------------------------------
@@ -83,6 +88,8 @@ Extra
      * French (limited)
      * Latin (limited)
 
-* Interested in static analysis techniques.
+* Interested in static analysis techniques
 
-* Track record of performing independent research.
+* Interested in hardware design and hardware security
+
+* Track record of performing independent research
